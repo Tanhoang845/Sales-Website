@@ -186,7 +186,7 @@ html{
 .btn.btn--nomal:hover{
     color: var(--white-color);
     background-color: var(--primary-color);
-    opacity: 0.8;
+    opacity: 0.7;
 }
 .btn.btn--size-s{
     height: 32px;
@@ -196,6 +196,7 @@ html{
 .btn.btn--primary{
     color: var(--white-color);
     background-color: var(--primary-color);
+    opacity: 0.9;
 }
 
 .btn.btn--disable {
